@@ -1,5 +1,5 @@
 {
-	"_id": "se",
+	"_id": "sv",
 	"my_colors": "Mina fÃ¤rger",
 	"edit": "REDIGERA",
 	"select_style": "VÃ¤lj en stil",
@@ -104,50 +104,50 @@
 	"pretext_title": "Var vÃ¤nlig Ã¤ndra pÃ¥ dina detaljer",
 	"custom_design": "Egen Design",
 	"uploaded_files": "Uppladdade Filer",
-	"pdf_download": "Download PDF",
-	"design_saved": "Your design has been saved!",
+	"pdf_download": "Ladda ner PDF",
+	"design_saved": "Din design har sparats!",
 	"modules": {
 		"variable-data": {
-			"title": "Generate Variation designs",
-			"help": "This allows you to create multiple copies of your design using your CSV or Excel data sheet",
-			"tip": "MULTIPLE COPIES",
-			"upload": "File Upload",
-			"upload_msg": "Start by uploading your .csv or .xls file or drag and drop the file here",
-			"assign": "Link elements",
-			"assign_msg": "Link each element on the canvas to a column in your data source",
-			"render": "Render pages",
-			"render_msg": "Once you finish linking the elements, click here to generate the pages.",
-			"upload_ok": "Upload is OK. You can click here to change file.",
-			"error_upload_type": "Sorry, only .csv, .xls or .xlsx files can be used!",
-			"confirm": "Will you like to create multiple copies of your design using a CSV or Excel data sheet?",
-			"none": "None",
-			"input_title": "Add individual records to create multiple pages and Render when ready to submit",
-			"add_record": "Add Record"
+			"title": "Generera variande designer",
+			"help": "Det här tillåter dig att skapa flera kopior av din desgin från ett CSV- eller Excel-datablad",
+			"tip": "FLERA KOPIOR",
+			"upload": "Filuppladdning",
+			"upload_msg": "Börja med att ladda upp din .csv or .xls fil och dra sedan filen hit",
+			"assign": "Länkelement",
+			"assign_msg": "Länka varje element i din design till en kolumn i din datakälla",
+			"render": "Rendera sidor",
+			"render_msg": "När du har länkat klart elementen, klicka här för att generera sidorna.",
+			"upload_ok": "Uppladdningen är ok. Klicka här för att ändra fil.",
+			"error_upload_type": "Du kan endast använda filtyperna .csv, .xls or .xlsx!",
+			"confirm": "Vill du skapa flera kopior av din desgin genom att använda ett CSV eller Excel datablad?",
+			"none": "Ingen",
+			"input_title": "Lägg till individuella poster för att skapa flera sidor och generera när du är klar",
+			"add_record": "Lägg till post"
 		},
 		"calendar": {
-			"title": "Configure your calendar",
-			"month_starts": "Starting month",
-			"week_starts": "Week starts",
-			"events": "Events",
-			"show_client": "Show this to Customer",
-			"hide_client": "Hide this from Customer"
+			"title": "Konfigurera din kalender",
+			"month_starts": "Startmånad",
+			"week_starts": "Startvecka",
+			"events": "Händelser",
+			"show_client": "Visa detta för kunden",
+			"hide_client": "Göm detta för kunden"
 		},
 		"remix": {
-			"tip": "Randomly add these photos to the canvas",
-			"help": "This will randomly mix your photos into the design",
-			"help_title": "Remix Photos"
+			"tip": "Lägg till dessa bilder slumpmässigt till designen",
+			"help": "Det här kommer infoga bilder slumpmässigt i din design",
+			"help_title": "Blanda Bilder"
 		},
 		"canvas-adjuster": {
-			"tip": "Adjust your Canvas size",
-			"help": "Click here to adjust your canvas dimension"
+			"tip": "Justera arbetsytan",
+			"help": "Klicka här för att ändra storleken på arbetsytan"
 		},
 		"page-loader": {
-			"add": "Add Page",
-			"delete": "Delete Page",
-			"swap": "Change this Page"
+			"add": "Ny Sida",
+			"delete": "Radera Sidan",
+			"swap": "Ändra Sidan"
 		}
 	},
-	"page_delete_alert": "This will delete the current design page.<br/>Do you wish to continue?",
-	"gallery_search": "Type to search gallery..",
-	"save_later": "Save for Later"
+	"page_delete_alert": "Din design kommer nollställas.<br/>Vill du fortsätta?",
+	"gallery_search": "Sök i galleriet..",
+	"save_later": "Spara designen till senare"
 }
